@@ -11,7 +11,6 @@ if (USE_MYMATH)                     # 判断是否使用自定义的Math库
     message(STATUS "使用自定义Math库")
     add_subdirectory(Math_Library)    # 包含Math_Library目录
     list(APPEND EXTRA_LIBS MathLib)     # 添加MathLib库
-    list(APPEND EXTRA_INCLUDES "${PROJECT_SOURCE_DIR}/Math_Library")     # 添加Math_Library目录到头文件搜索路径
 else()
     message(STATUS "使用系统Math库")
 endif()
