@@ -225,6 +225,9 @@ CMAKE_STRIP:FILEPATH=/Applications/Xcode.app/Contents/Developer/Toolchains/Xcode
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
+//Use custom Math library
+USE_MYMATH:BOOL=ON
+
 //Value Computed by CMake
 cmake-02_BINARY_DIR:STATIC=/Users/mac/yuanxinyu/Cmake/build
 

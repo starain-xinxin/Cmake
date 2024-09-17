@@ -821,4 +821,5 @@ CMakeFiles/demo.dir/main.cpp.o: /Users/mac/yuanxinyu/Cmake/main.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__locale_dir/locale_base_api/bsd_locale_defaults.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cstdarg \
+  /Users/mac/yuanxinyu/Cmake/build/pj_config.h \
   /Users/mac/yuanxinyu/Cmake/Math_Library/my_math.h
