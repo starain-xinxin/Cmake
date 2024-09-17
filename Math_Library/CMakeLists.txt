@@ -7,3 +7,6 @@ target_include_directories(MathLib PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}")    # �
 # PUBLIC 本目标构建需要，依赖这个目标的其他目标也需要
 # INTERFACE 本目标构建不需要，依赖这个目标的其他目标也不需要
 # PRIVATE 本目标构建需要，依赖这个目标的其他目标也不需要
+
+# 链接虚拟库用于得到编译选项
+target_link_libraries(MathLib PUBLIC compiler_options)    # 这里表明MathLib依赖的虚拟库为MathLib::MathLib

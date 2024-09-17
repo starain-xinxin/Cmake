@@ -7,6 +7,7 @@
 #endif
 
 int main(){
+    int a = 100;        // 这个用于测试警告
 
     #ifdef USE_MYMATH
     std::cout << "Hello world from cmake-02 main.cpp" << std::endl;

@@ -6,5 +6,5 @@ CXX_DEFINES = -DMathLib_EXPORTS
 
 CXX_INCLUDES = -I/Users/mac/yuanxinyu/Cmake/Math_Library
 
-CXX_FLAGS = -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC
+CXX_FLAGS = -std=gnu++14 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC -Wall -Wextra -Wshadow -Wformat=2 -Wunused
 
