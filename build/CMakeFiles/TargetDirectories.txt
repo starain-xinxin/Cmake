@@ -1,0 +1,6 @@
+/Users/mac/yuanxinyu/Cmake/build/CMakeFiles/demo.dir
+/Users/mac/yuanxinyu/Cmake/build/CMakeFiles/edit_cache.dir
+/Users/mac/yuanxinyu/Cmake/build/CMakeFiles/rebuild_cache.dir
+/Users/mac/yuanxinyu/Cmake/build/Math_Library/CMakeFiles/MathLib.dir
+/Users/mac/yuanxinyu/Cmake/build/Math_Library/CMakeFiles/edit_cache.dir
+/Users/mac/yuanxinyu/Cmake/build/Math_Library/CMakeFiles/rebuild_cache.dir
